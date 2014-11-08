@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>JSON-Patch</artifactId>
-    <version>0.4.0-SNAPSHOT</version>
+    <version>0.4.0</version>
     <name>JSON-Patch</name>
     <description>WebJar for JSON-Patch</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/JSON-Patch</url>
         <connection>scm:git:https://github.com/webjars/JSON-Patch.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/JSON-Patch.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>JSON-Patch-0.4.0</tag>
     </scm>
     
     <build>
